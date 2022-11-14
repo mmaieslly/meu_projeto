@@ -1,2 +1,3 @@
 Essa é uma linha de texto
 Linha do repositorio local
+teste dos commits para pushs
